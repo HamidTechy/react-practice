@@ -29,3 +29,5 @@ const NavBar = () => {
     )
 }
 export default NavBar;
+
+{/* <NavBar /> */}
