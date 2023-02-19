@@ -6,7 +6,7 @@ const AsynApi = () => {
 
 
     const ProductData = async()=>{
-        let res = await fetch("https://fakestoreapi.com/products")
+        let res = await fetch("https://jsonplaceholder.typicode.com/posts")
         res = await res.json()
         console.log(res)
         setProd(res)
@@ -35,3 +35,6 @@ const AsynApi = () => {
     )
 }
 export default AsynApi;
+
+
+{/* <AsynApi /> */}
