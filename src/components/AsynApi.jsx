@@ -37,4 +37,4 @@ const AsynApi = () => {
 export default AsynApi;
 
 
-{/* <AsynApi /> */}
+ 

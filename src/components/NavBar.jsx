@@ -16,10 +16,10 @@ const NavBar = () => {
           <Link to="/" class="nav-link active" aria-current="page" >Home</Link>
         </li>
         <li class="nav-item">
-          <Link to="/contactus" class="nav-link active" aria-current="page" >Contact us</Link>
+          <Link to="/effecthook" class="nav-link active" aria-current="page" >Effect Hook</Link>
         </li>
         <li class="nav-item">
-          <Link to="/aboutus" class="nav-link active" aria-current="page"  >About us</Link>
+          <Link to="/paramhook" class="nav-link active" aria-current="page"  >Param Hook </Link>
         </li>
         <li class="nav-item">
           <Link to="/signup" class="nav-link active" aria-current="page"  >Sign up</Link>
